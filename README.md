@@ -1,4 +1,4 @@
-# Neural Signals and Signal Processing (NSSP) Projects 1 & 2
+# Neural Signals and Signal Processing Projects 1 & 2
 - Project 1: fMRI data pre-processing and analysis (GLM, PCA).
 - Project 2: EMG data processing and analysis for robotic prostheses control
 
